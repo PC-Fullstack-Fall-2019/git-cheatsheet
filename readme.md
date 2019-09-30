@@ -1,8 +1,8 @@
 ## FROM SCRATCH
 1. Create your working directory
-  - `mkdir myProject`
+    `mkdir myProject`
 2. Go into your project directory
-  - `cd myProject`
+    `cd myProject`
 3. `git init`
 4. add the remote repository
   - copy the link from github
